@@ -1,0 +1,26 @@
+.container{
+    text-align: center;
+}
+
+.head{
+    font-size: x-large;
+    padding-top: 60px;
+    padding:30px;
+}
+
+
+img{
+    padding-bottom: 30px;
+}
+
+.door{
+    color: darkslategray;
+    font-size: xx-large;
+    padding-left: 160px;
+    padding-right: 160px;
+}
+
+.doorpic{
+    width: 350px;
+    height: 400px;
+}

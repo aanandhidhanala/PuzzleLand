@@ -1,0 +1,87 @@
+h1{
+    text-align: center;
+    font-size: xx-large;
+    color: blueviolet;
+    padding-top: 40px;
+    padding-bottom: 20px;
+}
+body{
+    background: #F8F8FF;
+}
+
+.para{
+    text-decoration: dotted;
+    padding-top: 20px;
+    padding-left: 100px;
+    padding-right: 100px;
+    font-size: x-large;
+    line-height: 2;
+    
+}
+.ins{
+    font-size: x-large;
+    padding: 10px;
+}
+
+.instruct{
+    padding-left: 80px;
+}
+
+.att{
+    color:cadetblue;
+    font-size: xx-large;
+    font-weight: 100;
+    padding: 30px;
+}
+
+.bc{
+    text-align: center;
+    position: relative;
+}
+.start {
+    padding-left: 100px;
+    text-align: center;
+    align-items: center;
+    background-clip: padding-box;
+    background-color: #fa6400;
+    border: 1px solid transparent;
+    border-radius: .25rem;
+    box-shadow: rgba(0, 0, 0, 0.02) 0 1px 3px 0;
+    box-sizing: border-box;
+    color: #fff;
+    cursor: pointer;
+    display: inline-flex;
+    font-family: system-ui,-apple-system,system-ui,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 16px;
+    font-weight: 600;
+    justify-content: center;
+    line-height: 1.25;
+    margin: 0;
+    min-height: 3rem;
+    padding: calc(.875rem - 1px) calc(1.5rem - 1px);
+    position: relative;
+    text-decoration: none;
+    transition: all 250ms;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+    vertical-align: baseline;
+    width: auto;
+  }
+  
+  .start:hover,
+  .start:focus {
+    background-color: #fb8332;
+    box-shadow: rgba(0, 0, 0, 0.1) 0 4px 12px;
+  }
+  
+  .start:hover {
+    transform: translateY(-1px);
+  }
+  
+  .start:active {
+    background-color: #c85000;
+    box-shadow: rgba(0, 0, 0, .06) 0 2px 4px;
+    transform: translateY(0);
+  }
+  
